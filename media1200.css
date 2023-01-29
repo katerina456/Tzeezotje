@@ -1,0 +1,13 @@
+@media screen and (max-width: 1200px) {
+    .container {
+        max-width: 900px;
+    }
+
+    .menu-box {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+}

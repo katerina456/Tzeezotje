@@ -1,0 +1,29 @@
+@media screen and (max-width: 950px) {
+    .container {
+        max-width: 680px;
+    }
+
+    .telephone {
+        display: none;
+    }
+
+    .nav-item {
+        margin-right: 30px;
+    }
+
+    .h1 {
+        font-size: 54px;
+    }
+
+    .about {
+        height: auto;
+        padding-bottom: 200px;
+        padding-top: 100px;
+    }
+
+    .comment {
+        width: 600px;
+    }
+
+
+}
